@@ -18,7 +18,7 @@
 * [Unit 4](unit-4/unit-4.md)
   * [Unit 4 Notes](unit-4/unit-4-notes.md)
   * [Unit 4 Learning Activities](unit-4/unit-4-learning-activities.md)
-* [Unit 5](unit 5)
+* [Unit 5](unit-5/unit-5.md)
   * [Unit 5 Notes](unit-5/unit-5-notes.md)
   * [Unit 5 Learning Activities](unit-5/unit-5-learning-activities.md)
 * [Unit 6](unit-6/unit-6.md)
@@ -26,7 +26,7 @@
   * [Unit 6 Learning Activities](unit-6/unit-6-learning-activities.md)
 * [Unit 7](unit-7/unit-7.md)
   * [Unit 7 Notes](unit-7/unit-7-notes.md)
-  * [Unit 7 Learning Activities](unit 7)
+  * [Unit 7 Learning Activities](unit-7/unit-7-learning-activities.md)
 * [Unit 8](unit-8/unit-8.md)
   * [Unit 8 Notes](unit-8/unit-8-notes.md)
   * [Unit 8 Learning Activities](unit-8/unit-8-learning-activities.md)
@@ -36,6 +36,4 @@
 * [Unit 10](unit-10/unit-10.md)
   * [Unit 10 Notes](unit-10/unit-10-notes.md)
   * [Unit 10 Learning Activities](unit-10/unit-10-learning-activities.md)
-
-
 
