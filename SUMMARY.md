@@ -1,6 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
+* [Assignments](assignments/assignments.md)
+  * [Assignment 1](assignments/assignment-1.md)
+  * [Assignment 2](assignments/assignment-2.md)
+  * [Assignment 3](assignments/assignment-3.md)
+  * [Assignment 4](assignments/assignment-4.md)
 * [Unit 1](unit-1/unit-1-learning-activities.md)
   * [Unit 1 Notes](unit-1/unit-1-notes.md)
   * [Unit 1 Learning Activities](unit-1/unit-1-learning-activities.md)
@@ -31,9 +36,6 @@
 * [Unit 10](unit-10/unit-10.md)
   * [Unit 10 Notes](unit-10/unit-10-notes.md)
   * [Unit 10 Learning Activities](unit-10/unit-10-learning-activities.md)
-* [Assignments](assignments/assignments.md)
-* [Assignment 1](assignments/assignment-1.md)
-* [Assignment 2](assignments/assignment-2.md)
-* [Assignment 3](assignments/assignment-3.md)
-* [Assignment 4](assignments/assignment-4.md)
+
+
 
