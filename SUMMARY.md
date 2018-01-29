@@ -1,6 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
+* [Syllabus](Syllabus/Syllabus.md)
+  * [Academic Integrity and Plagiarism](Syllabus/academic-integrity-and-plagiarism.md)
+  * [Attendance Policy](Syllabus/attendance-policy.md)
+  * [Campus Closures and Class Cancellation Policy](Syllabus/campus-closure-and-cancellation-policy.md)
+  * [Final Examinations](Syllabus/final-examinations.md)
+  * [Proposed Course Schedule](Syllabus/proposed-course-schedule.md)
+  * [Students with a Disability](Syllabus/students-with-a-disability.md)
 * [Assignments](assignments/assignments.md)
   * [Assignment 1](assignments/assignment-1.md)
   * [Assignment 2](assignments/assignment-2.md)
@@ -33,9 +40,6 @@
 * [Unit 9](unit-9/unit-9.md)
   * [Unit 9 Notes](unit-9/unit-9-notes.md)
   * [Unit 9 Learning Activities](unit-9/unit-9-learning-activities.md)
-* [Unit 10](unit-10/unit-10.md)
-  * [Unit 10 Notes](unit-10/unit-10-notes.md)
-  * [Unit 10 Learning Activities](unit-10/unit-10-learning-activities.md)
 * [Syllabus](Syllabus/Syllabus.md)
   * [Academic Integrity and Plagiarism](Syllabus/academic-integrity-and-plagiarism.md)
   * [Attendance Policy](Syllabus/attendance-policy.md)
