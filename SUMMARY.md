@@ -1,14 +1,30 @@
 # Summary
 
+<<<<<<< HEAD
 * [README](README.md)
 * [Learning Plan \(FA17\)](learning-plan-fa17.md)
 * [Course Overview](course-overview.md)
 * [Assignments](assignments.md)
+=======
+* [Introduction](README.md)
+* [Syllabus](Syllabus/Syllabus.md)
+  * [Academic Integrity and Plagiarism](Syllabus/academic-integrity-and-plagiarism.md)
+  * [Attendance Policy](Syllabus/attendance-policy.md)
+  * [Campus Closures and Class Cancellation Policy](Syllabus/campus-closure-and-cancellation-policy.md)
+  * [Final Examinations](Syllabus/final-examinations.md)
+  * [Proposed Course Schedule](Syllabus/proposed-course-schedule.md)
+  * [Students with a Disability](Syllabus/students-with-a-disability.md)
+* [Assignments](assignments/assignments.md)
+>>>>>>> 62fe2f29cc999ebd5ec5f6e514be22ea3ca490e4
   * [Assignment 1](assignments/assignment-1.md)
   * [Assignment 2](assignments/assignment-2.md)
   * [Assignment 3](assignments/assignment-3.md)
   * [Assignment 4](assignments/assignment-4.md)
+<<<<<<< HEAD
 * [Unit 1](unit-1.md)
+=======
+* [Unit 1](unit-1/unit-1.md)
+>>>>>>> 62fe2f29cc999ebd5ec5f6e514be22ea3ca490e4
   * [Unit 1 Notes](unit-1/unit-1-notes.md)
   * [Unit 1 Learning Activities](unit-1/unit-1-learning-activities.md)
 * [Unit 2](unit-2.md)
