@@ -1,17 +1,16 @@
-<<<<<<< HEAD
 ---
 post_title: 'Unit 1'
 layout: page
 published: true
 ---
 ### Title
-=======
-## How People Learn
 
-### Overview
+#### How People Learn
+
+#### Overview
 Welcome to LDRS 663 - _Effective coaching for transformational learning in blended learning environments_! We are going to get started by exploring some ideas around the nature of 'learning'.
 
-### Guiding questions
+#### Guiding questions
 
 After successfully completing this unit, students will be able to answer the following questions:
 * What do we really know about how people learn? 
