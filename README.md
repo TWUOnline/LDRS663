@@ -1,3 +1,13 @@
-# LDRS663
+### Course Title
 
-[Project Blueprint (GitHub)](https://github.com/TWUOnline/LDRS663/projects/1)
+Course Author: 
+
+Instructional Designer: 
+### Course Description
+
+
+
+Expected Launch: 
+
+
+
