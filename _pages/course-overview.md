@@ -22,7 +22,6 @@ post_date: 2018-02-27 21:49:11
 
 Learners explore theoretical foundations of transformational learning, theory, and coaching. Building on the theoretical foundations of LDRS 627, learners review coaching and facilitation strategies and, applying strategies within a learning/coaching context. Learners will develop the digital and learning literacies to maximise their ability to create and sustain communities of inquiry in alignment with the TWU FAR Centre model of teaching and learning. contemporary blended learning environments for multi-cultural higher education.
 
-Learners will develop the academic skills to discern the credibility, accuracy, and integrity of open access resources available on the Internet and corresponding digital tools to research, analyse and present information for academic purposes. You will develop competence in a range of digital tools including: social media; communication and collaboration tools; and publishing tools to support learning in multi-cultural contexts. This will include knowledge of copyright, open licensing, media literacy and digital citizenship. By the end of the course, learners will have the beginnings of a personal cyberinfrastructure to support their work as an online learning professional.
 
 ### Program Learning Outcomes
 
