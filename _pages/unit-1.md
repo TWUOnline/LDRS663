@@ -15,9 +15,8 @@ post_date: 2018-02-27 21:49:11
 
 #### Overview
 Welcome to LDRS 663 - _Effective coaching for transformational learning in blended learning environments_! We are going to get started by exploring some ideas around the nature of 'learning'.
-
-#### Guiding questions
-
+<h1>Test</h1>
+<h4>Guiding questions</h4>
 After successfully completing this unit, students will be able to answer the following questions:
 * What do we really know about how people learn?
 * What are the relevant differences between novices and experts?
