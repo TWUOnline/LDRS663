@@ -9,12 +9,12 @@ permalink: >
 published: true
 post_date: 2018-02-27 21:49:11
 ---
-# Effective coaching for transformational learning in blended learning environments.
-## Course Outline
+## Effective coaching for transformational learning in blended learning environments.
+### Course Outline
 
-## Department of …
+### Department of …
 
-## School of …
+### School of …
 
 ## LDRS 663:
 
@@ -55,8 +55,10 @@ On successful completion of this course, students should be able to:
 | Teach a Lesson (Liberating Structures) | 20% | 2-5 |
 
 ### Prerequisites
+- Leadership 627 - Theories of Adult education
 
 ### Co-requisites
+- None
 
 ### Texts/Materials
 
