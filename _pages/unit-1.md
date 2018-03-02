@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-27 21:49:11
 ---
+&nbsp;
+
 ### Title
 
 #### How People Learn
