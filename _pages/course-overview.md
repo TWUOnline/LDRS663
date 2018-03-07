@@ -61,12 +61,11 @@ On successful completion of this course, students should be able to:
 
 ### Texts/Materials
 
-Bates, T. (2015). Teaching in a digital age. [electronic resource]. Victoria : BCcampus, BC Open Textbook Project, 2015. Retrieved from [https://open.bccampus.ca/find-open-textbooks/?uuid=da50f5f1-bbc6-481e-a359-e73007c66932](https://open.bccampus.ca/find-open-textbooks/?uuid=da50f5f1-bbc6-481e-a359-e73007c66932)
+Bates, T. (2015). [Teaching in a digital age.](https://open.bccampus.ca/find-open-textbooks/?uuid=da50f5f1-bbc6-481e-a359-e73007c66932) 
 
-Campbell, G. (2009). A Personal Cyberinfrastructure. EDUCAUSE Review, 44(5), 58-59. Retrieved from [https://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure](https://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure)
+Campbell, G. (2009). [A Personal Cyberinfrastructure.](https://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure) EDUCAUSE Review, 44(5), 58-59. 
 
-Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). Teaching in blended learning environments: Creating and sustaining communities of inquiry. Athabasca: AU Press. Retrieved from [http://www.aupress.ca/index.php/books/120229](http://www.aupress.ca/index.php/books/120229)
-
+Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). [Teaching in blended learning environments: Creating and sustaining communities of inquiry.](http://www.aupress.ca/index.php/books/120229) Athabasca: AU Press. 
 ### Course Topics
 
 ### Modality
