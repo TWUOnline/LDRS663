@@ -1,9 +1,15 @@
 ---
-post_title: 'Unit 2'
+ID: 102
+post_title: Unit 2
+author: Colin Madland
+post_excerpt: ""
 layout: page
+permalink: >
+  https://create.twu.ca/ldrs663-su18/unit-2/
 published: true
+post_date: 2018-03-13 22:48:07
 ---
-### \[Title\]
+### [Title]
 
 ### Blended Learning Environments
 
