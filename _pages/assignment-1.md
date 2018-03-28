@@ -27,14 +27,19 @@ A brief note about logistics: if you are replying to someone else's post, please
 As you know by now, your work for this course, and also for the MA Leadership, will be open on the web. If you have concerns about your privacy, you may have signed up for your blog under a pseudonym, or maybe you plan to take other steps to protect your identity. But, regardless of how you choose to portray yourself online, your posts themselves should exhibit characteristics of academic thought.
 
 Biggs and Collis (1982) describe the SOLO Taxonomy as a way to conceptualize the quality of academic work. They describe five levels of increasingly complex responses:
+
 ##### pre-structural
 - the student response completely misses the point of the question or task
+
 ##### uni-structural
 - student responses describe one characteristic related to the topic or question
+
 ##### multi-structural
 - student responses describe multiple characteristics of the topic but the concepts are not related to each other in any way
+
 ##### relational
 - student responses describe multiple characteristics of the topic in a way that is internally coherent and shows the relatedness of the concepts
+
 ##### extended abstract
 - student responses show the same characteristics as relational responses but they are further connected to new topics or concepts.
 
