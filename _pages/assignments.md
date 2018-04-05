@@ -9,4 +9,15 @@ permalink: >
 published: true
 post_date: 2018-02-27 21:49:11
 ---
-Assignments
+### Graded Assignments
+
+|Assignment|Value|
+|:---|:---|
+|Weekly Learning Reflections| 20%|
+|Instructor Handbook Creation| 30%|
+|Syllabus Analysis|20%|
+|Lesson Design|10%|
+|Lesson Preparation|20%|
+
+
+##### Weekly Learning Reflections

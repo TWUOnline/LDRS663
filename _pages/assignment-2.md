@@ -13,7 +13,7 @@ post_date: 2018-02-27 21:49:11
 
 Throughout this course, you will be creating a guide that will serve as a resource for you and your colleagues while you are in a FAR Centre and also for those who are in other FAR Centres across the world.
 
-We can't emphasize enough how important it will be for you to have thought through the model of teaching and learning that will be realized in the FAR Centres and how that will relate to your work on the ground as the front-line facilitator.
+We can't emphasize enough how important it will be for you to have analyzed, critiqued, and integrated into your practice the model of teaching and learning that will be realized in the FAR Centres and how that will relate to your work on the ground as the front-line facilitator.
 
 As you will be facilitating learning experiences in subjects where you may not have significant domain knowledge, it will be critical for you to be able to lead students through thinking processes that will lead to them discovering what they need to know in order to solve their questions.
 
