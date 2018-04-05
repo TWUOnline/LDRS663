@@ -12,7 +12,7 @@ post_date: 2018-02-27 21:49:11
 ### Blogging
 Throughout this course, you will be invited to write about what you are learning on your blog. You should consider your blog as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community.
 
-Your blog should not necessarily be written in a formal academic style, but you should (like always) give appropriate credit to other people who have informed or inspired your thoughts. This can be done with a simple mention and link as a way to say thank you, [like this](http://cogdogblog.com/2017/02/beautiful-benches-and-attribution/). Or, you could activate the 'Inline Footnotes' plugin on your blog and use footnotes to provide an attribution. If you'd like to go full APA, you are welcome to do that, but you are not obligated to do so.
+Unlike other assignments in this course, your blog will not always be written in a formal academic style, but you should (like always) give appropriate credit to other people who have informed or inspired your thoughts. This can be done with a simple mention and link as a way to say thank you, [like this](http://cogdogblog.com/2017/02/beautiful-benches-and-attribution/). Or, you could activate the 'Inline Footnotes' plugin on your blog and use footnotes to provide an attribution. 
 
 The point of your blog is to provide opportunity for you to do the work of learning in a non-threatening environment. It will be expected that you will be wrong about some things, or at the very least, that there will be discrepancies between what you now believe and what you used to believe, or what your colleagues believe. This is good. We want you to change your mind, and that is difficult work.
 
