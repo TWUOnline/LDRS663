@@ -52,5 +52,5 @@ Each course handbook will include the following sections:
 - detailed instructions and notes for leading the learning activities required in the course
 - common misconceptions related to the subject area of the course
 - common teaching strategies used in the subject area
-- sample lesson plans
+- sample lesson plans from each of your group members
 - detailed instructions and notes for managing and leading students through the required assignments

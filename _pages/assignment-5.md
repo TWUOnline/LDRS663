@@ -8,4 +8,6 @@ permalink: >
 published: true
 post_date: 2018-02-27 21:49:11
 ---
-Assignment 5
+### Lesson Presentation
+
+Students will work in cooperation with an instructor in the TWU International Degree Completion program to plan and implement a lesson or portion of a lesson.
