@@ -20,7 +20,7 @@ post_date: 2018-02-27 21:49:11
 
 ### Calendar Description
 
-Learners explore theoretical foundations of transformational learning, theory, and coaching. Building on the theoretical foundations of LDRS 627, learners review coaching and facilitation strategies and, applying strategies within a learning/coaching context. Learners will develop the digital and learning literacies to maximise their ability to create and sustain communities of inquiry in alignment with the TWU FAR Centre model of teaching and learning. contemporary blended learning environments for multi-cultural higher education.
+Students will Examine the theoretical foundations and professional practices of coaching learners in blended learning environments with an emphasis on facilitating transformational learning experiences. The intersection of adult education, educational technology, and international education thought is investigated in relation to the development of effective strategies for coaching learners within the emerging context of technologically distributed global higher education. Projects develop digital literacy skills, including the use of communication, collaboration and publishing tools; and media literacy, including knowledge of copyright, open licensing, and digital citizenship.
 
 
 ### Program Learning Outcomes
@@ -34,14 +34,13 @@ On successful completion of this course, students should be able to:
 
 1. analyze the characteristics of the coaching role within theoretical models of blended teaching and learning;
 2. demonstrate the ability to model metacognitive strategies for self-regulated learning;
-3. evaluate the quality of the feedback provided to students in light of relevant evidence-based research
-4. create a learning environment that supports and enhances deep approaches to learning;
-5. evaluate the ways that interactions occur in a learning environment and develop ideas to encourage high quality educative interactions;
-6. design activities to direct cognitive and social processes to realize learning outcomes.
-7. apply multi-modal communication and collaboration tools effectively in support of learning in a higher education context.
-8. demonstrate the effective application of information literacies to research, produce, analyse and present information online.
-9. evaluate the authority of online information from a variety of sources including open access materials, mass-media, and social media .
-10. demonstrate developing ability to engage in the 5R rights of open educational resources.
+3. apply intercultural competencies in coaching learners in transformational blended learning environments;
+4. evaluate the quality of feedback in light of evidence-based research
+5. evaluate interactions in a learning environment and develop strategies for  high quality educative interactions;
+6. Design cognitive and social activities to meet learning outcomes.
+7. apply multi-modal communication and collaboration tools effectively to support learning in a higher education context.
+8. apply information and media literacies to research, produce, analyse and present information online.
+
 
 ### Student Evaluation
 
@@ -61,11 +60,11 @@ On successful completion of this course, students should be able to:
 
 ### Texts/Materials
 
-Bates, T. (2015). [Teaching in a digital age.](https://open.bccampus.ca/find-open-textbooks/?uuid=da50f5f1-bbc6-481e-a359-e73007c66932) 
+Bates, T. (2015). [Teaching in a digital age.](https://open.bccampus.ca/find-open-textbooks/?uuid=da50f5f1-bbc6-481e-a359-e73007c66932)
 
-Campbell, G. (2009). [A Personal Cyberinfrastructure.](https://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure) EDUCAUSE Review, 44(5), 58-59. 
+Campbell, G. (2009). [A Personal Cyberinfrastructure.](https://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure) EDUCAUSE Review, 44(5), 58-59.
 
-Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). [Teaching in blended learning environments: Creating and sustaining communities of inquiry.](http://www.aupress.ca/index.php/books/120229) Athabasca: AU Press. 
+Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). [Teaching in blended learning environments: Creating and sustaining communities of inquiry.](http://www.aupress.ca/index.php/books/120229) Athabasca: AU Press.
 ### Course Topics
 
 ### Modality
