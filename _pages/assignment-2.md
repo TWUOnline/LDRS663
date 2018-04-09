@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-27 21:49:11
 ---
-### Instructor Handbook Assignment
+### Coaching Handbook Assignment
 
 Throughout this course, you will be creating a guide that will serve as a resource for you and your colleagues while you are in a FAR Centre and also for those who are in other FAR Centres across the world.
 
