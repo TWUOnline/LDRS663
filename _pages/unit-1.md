@@ -25,8 +25,4 @@ Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). <em>Teaching in ble
 
 <h4>Learning Activities</h4>
 
-[h5p id="1"]<!--themify_builder_static-->
-
-<iframe id="h5p-iframe-1" data-content-id="1" style="height:1px" src="about:blank" frameBorder="0" scrolling="no"></iframe>
-
-<!--/themify_builder_static-->
+[h5p id="1"]<!--themify_builder_static--><iframe id="h5p-iframe-1" data-content-id="1" style="height:1px" src="about:blank" frameBorder="0" scrolling="no"></iframe><!--/themify_builder_static-->
