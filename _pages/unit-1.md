@@ -23,33 +23,11 @@ Garrison, D. R., Anderson, T., &amp; Archer, W. (2000). <em>Critical inquiry in 
 Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). <em>Teaching in blended learning environments: Creating and sustaining communities of inquiry.</em> Athabasca: AU Press.
 * This book is available for free at <a href="http://www.aupress.ca/index.php/books/120229">AUPress</a>
 
-Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). <em>Teaching in blended learning environments: Creating and sustaining communities of inquiry.</em> Athabasca: AU Press.
-- This book is available for free at <a href="http://www.aupress.ca/index.php/books/120229">AUPress</a>
+Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). _Teaching in blended learning environments: Creating and sustaining communities of inquiry._ Athabasca: AU Press.
+- This book is available for free at [AUPress](http://www.aupress.ca/index.php/books/120229)
 
-<h4>Learning Activities</h4>
-
-<ol>
-    <li>Self-Introduction</li>
-    <li>Get started in GitHub</li>
-    <li>Readings</li>
-</ol>
-
-<h1>4. Your first blog post</h1>
-
-<h4>Learning Activities</h4>
-
-<!--themify_builder_static--><iframe id="h5p-iframe-1" data-content-id="1" style="height:1px" src="about:blank" frameBorder="0" scrolling="no"></iframe><!--/themify_builder_static-->
-
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>fcda7fc06d40781566ff6f3eb8c501b4add36096</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
+#### Learning Activities
+1. Self-Introduction
+2. Get started in GitHub
+3. Readings
+4. Your first blog post
