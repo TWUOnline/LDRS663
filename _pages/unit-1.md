@@ -17,13 +17,13 @@ Welcome to LDRS 663 - <em>Coaching for Transformational Blended Learning</em>! I
 
 <h4>Resources</h4>
 
-Garrison, D. R., Anderson, T., &amp; Archer, W. (2000). <em>Critical inquiry in a text-based environment: Computer conferencing in higher education.</em> The Internet and Higher Education, 2, 87-105. doi:10.1016/S1096-7516(00)00016-6
+Garrison, D. R., Anderson, T., & Archer, W. (2000). <em>Critical inquiry in a text-based environment: Computer conferencing in higher education.</em> The Internet and Higher Education, 2, 87-105. doi:10.1016/S1096-7516(00)00016-6
 - This article is accessible through the <a href="http://www.twu.ca/library">TWU Library</a>
 
-Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). <em>Teaching in blended learning environments: Creating and sustaining communities of inquiry.</em> Athabasca: AU Press.
+Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). <em>Teaching in blended learning environments: Creating and sustaining communities of inquiry.</em> Athabasca: AU Press.
 * This book is available for free at <a href="http://www.aupress.ca/index.php/books/120229">AUPress</a>
 
-Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). <em>Teaching in blended learning environments: Creating and sustaining communities of inquiry.</em> Athabasca: AU Press.
+Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). <em>Teaching in blended learning environments: Creating and sustaining communities of inquiry.</em> Athabasca: AU Press.
 - This book is available for free at <a href="http://www.aupress.ca/index.php/books/120229">AUPress</a>
 
 <h4>Learning Activities</h4>
@@ -35,6 +35,8 @@ Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). <em>Teaching in ble
     <li>Your first blog post</li>
 </ol>
 
-&nbsp;
+ #### References
+ Dewey, J. (1897). My pedagogic creed. In M. S. Dworkin (Ed.), Dewey on education. NewYork, NY: Teachers College Press. Retrieved from https://en.wikisource.org/wiki/My_Pedagogic_Creed
+
 
 <!--themify_builder_static--><iframe id="h5p-iframe-1" data-content-id="1" style="height:1px" src="about:blank" frameBorder="0" scrolling="no"></iframe><!--/themify_builder_static-->
