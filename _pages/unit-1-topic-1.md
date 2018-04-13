@@ -9,4 +9,8 @@ permalink: >
 published: true
 post_date: 2018-04-10 21:56:03
 ---
-.
+### Unit 1, Topic 1
+
+#### Community of Inquiry
+
+The idea that learning is a social process has a long history in education. Many theorists
