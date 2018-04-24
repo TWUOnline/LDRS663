@@ -1,8 +1,13 @@
 ---
+ID: 231
 post_title: Roles and Responsibilities
 author: Colin Madland
+post_excerpt: ""
 layout: page
+permalink: >
+  https://create.twu.ca/ldrs663-su18/roles-and-responsibilities/
 published: true
+post_date: 2018-04-24 00:08:17
 ---
 ### Faculty
 ##### Design
