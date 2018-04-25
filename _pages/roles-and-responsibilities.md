@@ -7,10 +7,13 @@ published: true
 ### Faculty
 ##### Design
 - determine content
+- decide how content will be used
 - design interactions
 - design assessments
 - determine criteria for success (rubrics)
 - creating learning Outcomes
+- monitoring delegated to facilitator
+- highlighting big questions 
 
 ##### Assessment
 - monitoring academic integrity
@@ -26,6 +29,7 @@ published: true
 - interpreting and clarifying faculty instructions
 - managing social connections
 - 1v1 coaching (remediation and performance)
+- choose means of interactions
 
 ##### Feedback
 - interpreting faculty formative and summative feedback
@@ -35,3 +39,5 @@ published: true
 
 ##### Regulations
 - academic integrity
+
+## ISW training integrated?
