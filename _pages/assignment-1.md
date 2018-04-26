@@ -47,6 +47,7 @@ Biggs and Collis (1982) describe the SOLO Taxonomy as a way to conceptualize the
 
 In general, all of your academic work should be reflective of either relational or extended abstract levels of the SOLO Taxonomy. At minimum, you should be relating multiple ideas to each other in your post. The concepts that you describe can be your own new ideas compared to how you used to think and how you have changed, or you can contrast ideas from your readings with those of your classmates and your own previous misconceptions. Better than that, however, is extending your ideas to unrelated concepts. One way to do this is to apply your new learning to a problem or challenge in your own personal or professional context.
 
+[Solo Taxonomy Examples](https://www.uq.edu.au/teach/assessment/docs/biggs-SOLO.pdf)
 
 ### References
 Biggs, J. B. and Collis, K. (1982) Evaluating the Quality of Learning: the SOLO taxonomy. New York, Academic Press
