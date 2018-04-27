@@ -37,6 +37,10 @@ There are some differences between working in GitHub and working in MS Word, but
 
 ##### Process
 
+###### Step 1
+- faculty interview
+- 
+
 You will be provided a handbook template (called a repository) in GitHub which your team will 'fork' (make a local copy). Once your team has forked the template, each individual team member will then fork the team repository (NOT the original).
 
 From then, each team member will work on their own fork of the repository and at appropriate times, will create a 'pull request' to integrate their work into their team's fork. Each pull request can be discussed and revised prior to merging with your team's fork.

@@ -43,10 +43,6 @@ post_date: 2018-04-24 00:08:17
 - grade appeals
 
 ##### Regulations
-<<<<<<< HEAD
 - academic integrity
 
 ## ISW training integrated?
-=======
-- academic integrity
->>>>>>> 6793cbd39ec41b6deee59c013f12fcdc13e3f2b6
