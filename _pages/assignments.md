@@ -14,10 +14,10 @@ post_date: 2018-02-27 21:49:11
 |Assignment|Value|
 |:---|:---|
 |Weekly Learning Reflections| 20%|
-|Instructor Handbook Creation| 30%|
 |Syllabus Analysis|20%|
+|Faculty Interview   | 10%  |
 |Lesson Design|10%|
-|Lesson Preparation|20%|
-
+|Lesson Presentation|10%|
+|Instructor Handbook Creation| 30%|
 
 ##### Weekly Learning Reflections

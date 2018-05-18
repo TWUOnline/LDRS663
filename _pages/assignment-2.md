@@ -9,52 +9,17 @@ permalink: >
 published: true
 post_date: 2018-02-27 21:49:11
 ---
-### Coaching Handbook Assignment
+### Syllabus Analysis
 
-Throughout this course, you will be creating a guide that will serve as a resource for you and your colleagues while you are in a FAR Centre and also for those who are in other FAR Centres across the world.
+Your work as a coach in any given learning environment will require that you be able to translate written instructions into meaningful and engaging learning activities for students. Almost always, this will happen when you have limited access to the author of the learning materials.
 
-We can't emphasize enough how important it will be for you to have analyzed, critiqued, and integrated into your practice the model of teaching and learning that will be realized in the FAR Centres and how that will relate to your work on the ground as the front-line facilitator.
+For this assignment, you will work with your group to evaluate the syllabus for one of the courses that TWU will offer in a FAR Centre and make recommendations for translating that syllabus into a dynamic active-learning environment.
 
-As you will be facilitating learning experiences in subjects where you may not have significant domain knowledge, it will be critical for you to be able to lead students through thinking processes that will lead to them discovering what they need to know in order to solve their questions.
-
-There is really only one major project for you during this course, and that is to create this Course Guide based on the courses that you will be facilitating.
-
-You will use the actual syllabi and course materials from Liberal Arts core courses in various disciplines to research and record learning strategies, common misconceptions, related resources, and other aids for you and your colleagues to be able to effectively assist students working through the course materials.
-
-Your work in this course will be foundational and future FAR Centre Facilitators will build on your work meaning that what you do this term will live on once you have left.
-
-#### Assignment Details
-
-This assignment requires you to work cooperatively with a small group of your colleagues to create an instructor handbook for one of the courses offered in a FAR Centre.
-
-A cooperative project is distinguished from a collaborative project in that it requires a sense of positive interdependence whereby each student's contribution is necessary for the successful completion of the project. In addition, there is both individual and group accountability built into the assessment.
-
-##### Platform
-
-The platform for creating this handbook will be identical to the platform for publicizing it, GitHub. For many of you, this will be a novel environment, but it will become second nature to you as you work. Using GitHub as our platform will provide significant advantages in tracking your individual contributions to the handbook as well as having a way to easily fork and copy the material to be used in different contexts.
-
-There are some differences between working in GitHub and working in MS Word, but those differences are relatively cosmetic from a user's point of view. Please refer to the GitHub Guide for details.
-
-##### Process
-
-###### Step 1
-- faculty interview
-- 
-
-You will be provided a handbook template (called a repository) in GitHub which your team will 'fork' (make a local copy). Once your team has forked the template, each individual team member will then fork the team repository (NOT the original).
-
-From then, each team member will work on their own fork of the repository and at appropriate times, will create a 'pull request' to integrate their work into their team's fork. Each pull request can be discussed and revised prior to merging with your team's fork.
-
-All of the work that you do will be tracked by GitHub and your individual contributions will be clear in the finished product.
+The results of your analysis will form one section of the Instructor Handbook.
 
 ##### Product
 
-Each group will create a handbook for one FAR Centre course, so that, over time, you will have contributed to a comprehensive resource for anyone working in a FAR Centre. You will retain access to the handbook and be able to provide updates 'from the field'.
-
-Each course handbook will include the following sections:
-- the course Syllabus
-- detailed instructions and notes for leading the learning activities required in the course
-- common misconceptions related to the subject area of the course
-- common teaching strategies used in the subject area
-- sample lesson plans from each of your group members
-- detailed instructions and notes for managing and leading students through the required assignments
+Your analysis will include the following:
+- summary of each of the learning outcomes for the course including how each outcome will be assessed
+- statement of how the course aligns with TWU's Student Learning Outcomes
+-
