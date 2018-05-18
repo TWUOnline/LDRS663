@@ -19,25 +19,27 @@ There is really only one major project for you during this course, and that is t
 
 You will use the actual syllabi and course materials from Liberal Arts core courses in various disciplines to research and record learning strategies, common misconceptions, related resources, and other aids for you and your colleagues to be able to effectively assist students working through the course materials.
 
-Your work in this course will be foundational and future FAR Centre Facilitators will build on your work meaning that what you do this term will live on once you have left.
+Your work in this course will be foundational and future FAR Centre Facilitators will build on your work - meaning that what you do this term will live on once you have left.
 
 #### Assignment Details
 
 This assignment requires you to work cooperatively with a small group of your colleagues to create an instructor handbook for one of the courses offered in a FAR Centre.
+**(What if there are only 3-4 students in the class (or less at first)?  There may only be 1 or 2 courses that students will make a handbook for.  Plus, what about the faculty interviews?  Students should interview different faculty members, and some of those interview answers may help them write the handbook, correct?)
 
 A cooperative project is distinguished from a collaborative project in that it requires a sense of positive interdependence whereby each student's contribution is necessary for the successful completion of the project. In addition, there is both individual and group accountability built into the assessment.
 
 ##### Platform
 
-The platform for creating this handbook will be identical to the platform for publicizing it, GitHub. For many of you, this will be a novel environment, but it will become second nature to you as you work. Using GitHub as our platform will provide significant advantages in tracking your individual contributions to the handbook as well as having a way to easily fork and copy the material to be used in different contexts.
+The platform for creating this handbook will be identical to the platform for publicizing it: GitHub. For many of you, this will be a novel environment, but it will become second nature to you as you work. Using GitHub as our platform will provide significant advantages in tracking your individual contributions to the handbook as well as having a way to easily fork and copy the material to be used in different contexts.
 
 There are some differences between working in GitHub and working in MS Word, but those differences are relatively cosmetic from a user's point of view. Please refer to the GitHub Guide for details.
+**(Colin, when you create this could use add video? Reading the forking details below might scare off some students!;)
 
 ##### Process
 
 ###### Step 1
 - faculty interview
-- syllabus review
+- syllabus review (this is first, correct?)  (Also, this section doesn't seem to be syncing to the Wordpress site https://create.twu.ca/ldrs663-su18/assignment-2/)
 -
 
 You will be provided a handbook template (called a repository) in GitHub which your team will 'fork' (make a local copy). Once your team has forked the template, each individual team member will then fork the team repository (NOT the original).
