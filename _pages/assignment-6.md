@@ -59,3 +59,5 @@ Each course handbook will include the following sections:
 - common teaching strategies used in the subject area
 - sample lesson plans from each of your group members
 - detailed instructions and notes for managing and leading students through the required assignments
+
+**(In the handbook should there also be a section to guide students in taking the course online? Some Chinese students may be unfamiliar with the online layout, and it may take 1-2 orientation classes and/or troubleshooting throughout the term.)
