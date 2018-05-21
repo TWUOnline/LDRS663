@@ -24,7 +24,10 @@ Your work in this course will be foundational and future FAR Centre Facilitators
 #### Assignment Details
 
 This assignment requires you to work cooperatively with a small group of your colleagues to create an instructor handbook for one of the courses offered in a FAR Centre.
+
+‘’’
 **(What if there are only 3-4 students in the class (or less at first)?  There may only be 1 or 2 courses that students will make a handbook for.  Plus, what about the faculty interviews?  Students should interview different faculty members, and some of those interview answers may help them write the handbook, correct?)
+‘’’
 
 A cooperative project is distinguished from a collaborative project in that it requires a sense of positive interdependence whereby each student's contribution is necessary for the successful completion of the project. In addition, there is both individual and group accountability built into the assessment.
 
