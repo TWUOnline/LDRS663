@@ -7,6 +7,10 @@ permalink: >
   https://create.twu.ca/ldrs663-su18/assignment-6/
 published: true
 ---
+'''
+Easiest way to highlihgt inline comments, IMO, is to enclose comments in three backticks, creating a note like this one.
+'''
+
 ### Coaching Handbook Assignment
 
 Throughout this course, you will be creating a guide that will serve as a resource for you and your colleagues while you are in a FAR Centre and also for those who are in other FAR Centres across the world.
