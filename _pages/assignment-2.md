@@ -1,6 +1,6 @@
 ---
 ID: 6
-post_title: Course Guide Development
+post_title: Assignment 2
 author: Colin Madland
 post_excerpt: ""
 layout: page
