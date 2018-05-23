@@ -9,18 +9,18 @@ permalink: >
 published: true
 post_date: 2018-02-27 21:49:11
 ---
-### Syllabus Analysis (20%)
+<h3>Syllabus Analysis (20%)</h3>
 
-```
-(Is there a rubric and/or more details? Also, once they get feedback for this assignment, will they be able to re-do this part for the Handbook assignment?)
-```
+<pre><code>(Is there a rubric and/or more details? Also, once they get feedback for this assignment, will they be able to re-do this part for the Handbook assignment?)
+</code></pre>
+
 Your work as a coach in any given learning environment will require that you be able to translate written instructions into meaningful and engaging learning activities for students. Almost always, this will happen when you have limited access to the author of the learning materials.
 
 For this assignment, you will work with your group to evaluate the syllabus for one of the courses that TWU will offer in a FAR Centre and make recommendations for translating that syllabus into a dynamic active-learning environment.
 
 The results of your analysis will form one section of the Instructor Handbook.
 
-##### Product
+<h5>Product</h5>
 
 Your analysis will include the following:
 - summary of each of the learning outcomes for the course including how each outcome will be assessed
