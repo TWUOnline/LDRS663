@@ -1,4 +1,5 @@
 ---
+ID: 244
 post_title: Assignment 6
 author: Colin Madland
 post_excerpt: ""
@@ -6,6 +7,7 @@ layout: page
 permalink: >
   https://create.twu.ca/ldrs663-su18/assignment-6/
 published: true
+post_date: 2018-05-23 21:08:57
 ---
 ```
 Easiest way to highlight inline comments, IMO, is to enclose comments in three backticks, creating a note like this one.
