@@ -1,6 +1,6 @@
 ---
 ID: 4
-post_title: Blogging
+post_title: Assignment 1
 author: Colin Madland
 post_excerpt: ""
 layout: page
