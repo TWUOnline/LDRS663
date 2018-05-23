@@ -40,3 +40,7 @@ Your summary should include the following items:
 - a summary of common misconceptions related to the course content, how to recognize those misconceptions, and how to address them through supplemental instruction or other learning activities
 
 https://soundcloud.com/childish-gambino/this-is-america
+
+https://youtu.be/JozAmXo2bDE
+
+https://vimeo.com/270743342
