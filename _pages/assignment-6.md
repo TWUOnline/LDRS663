@@ -13,6 +13,12 @@ post_date: 2018-05-23 21:08:57
 Easiest way to highlight inline comments, IMO, is to enclose comments in three backticks, creating a note like this one.
 ```
 
+<<<<<<< HEAD
+=======
+Added content more content
+
+No this content is Better Colin added this...
+>>>>>>> 64132c4b81a2752330ba49fbd4629e620d18132e
 
 ### Coaching Handbook Assignment
 
