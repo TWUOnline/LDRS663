@@ -38,9 +38,3 @@ Your summary should include the following items:
 - a list of the key questions or big ideas in the course and how those are connected to the learning outcomes
 - a revised graphic overview showing the connections between the big ideas, main topics, and sub-topics
 - a summary of common misconceptions related to the course content, how to recognize those misconceptions, and how to address them through supplemental instruction or other learning activities
-
-https://soundcloud.com/childish-gambino/this-is-america
-
-https://youtu.be/JozAmXo2bDE
-
-https://vimeo.com/270743342
