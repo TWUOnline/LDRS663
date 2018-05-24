@@ -15,6 +15,8 @@ Easiest way to highlight inline comments, IMO, is to enclose comments in three b
 
 Added content
 
+No this content is Better
+
 ### Coaching Handbook Assignment
 
 Throughout this course, you will be creating a guide that will serve as a resource for you and your colleagues while you are in a FAR Centre and also for those who are in other FAR Centres across the world.
