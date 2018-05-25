@@ -1,6 +1,6 @@
 ---
 ID: 6
-post_title: Assignment 2
+post_title: Course Guide Development
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -28,4 +28,8 @@ Your analysis will include the following:
 - an annotated bibliography of each of the main resources (textbooks and scholarly articles) used in the course including TWU Library links to electronic resources
 - overview of active learning strategies used in the course
 - recommendations on how active learning strategies can be enhanced for the TWU FAR Centre model
--
+- a graphic overview (mind map) of the main topics in the course
+
+### Completing and Submitting your Work
+
+Prior to beginning this assignment, you must have completed the GitHub Orientation Guide, which will lead you through the process of signing up for an account with GitHub (it will be free for you as a student), forking a repository, and editing the text of a file using MarkDown.
