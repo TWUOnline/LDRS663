@@ -29,7 +29,9 @@ There is a very good chance that the posts you read as part of #LA1.1 included a
 
 The idea didn't originate with Dewey, though, as we know that in first-century Palestine there was a certain itinerant teacher and miracle-worker whose lessons were profoundly impactful on a small group of young men and women who were called to live and learn in a deeply personal and social community.
 
-Following Dewey, many others wrote about what has now become known as the educational theory of *social constructivism* ()
+Following Dewey, many others, such as Jean Piaget, Jerome Bruner, and Lev Vygotsky (see [Driscoll, 2005)](https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.1254633&site=eds-live) have written about what has now become known as the educational theory of *social constructivism*.
 
 ## References
 Dewey, J. (1897). *My pedagogic creed.* In M. S. Dworkin (Ed.), *Dewey on education.* NewYork, NY: Teachers College Press.
+
+Driscoll, M. P. (2005). *Psychology of learning for instruction* (3rd ed.). Boston: Pearson Education.
