@@ -45,9 +45,12 @@ It is this third category of tasks which characterize the ZPD and are the 'sweet
 
 #### Community of Inquiry
 
-This brings us to the idea of a 'Community of Inquiry' (CoI), which was first described by 
+This brings us to the idea of a 'Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article "Critical Inquiry in a text-based environment". Garrison, et.al. theorize that there are three critical components that compose an interactive, online learning environment.
 
 ## References
+
+Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education, 2*, 87–105. https://doi.org/10.1016/S1096-7516(00)00016-6
+
 Dewey, J. (1897). *My pedagogic creed.* In M. S. Dworkin (Ed.), *Dewey on education.* NewYork, NY: Teachers College Press.
 
 Driscoll, M. P. (2005). *Psychology of learning for instruction* (3rd ed.). Boston: Pearson Education.
