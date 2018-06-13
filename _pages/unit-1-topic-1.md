@@ -45,9 +45,14 @@ It is this third category of tasks which characterize the ZPD and are the 'sweet
 
 #### Community of Inquiry
 
-This brings us to the idea of a 'Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article "Critical Inquiry in a text-based environment". Garrison, et.al. theorize that there are three critical components, or "presences" that compose an interactive, online learning environment: Social presence, teaching presence, and cognitive presence. At the intersection of these three presences is the heart of an educational experience.
+This brings us to the idea of a 'Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article "Critical Inquiry in a text-based environment". Garrison, et.al. theorize that there are three critical components, or "presences" that compose an interactive, online learning environment: Cognitive presence, teaching presence, and social presence. At the intersection of these three presences is the heart of an educational experience.
 
 ![Community of Inquiry Model](https://github.com/TWUOnline/LDRS663/blob/Development/_assets/CoI-Model.jpg)
+
+Cognitive presence, possibly the most foundational element, is the
+> extent to which the participants in any particular configuration of a community of inquiry are able to construct meaning through sustained communication (p. 89).
+
+Recall that this cognitive process is at he heart of constructivist learning environments.
 
 
 ## References
