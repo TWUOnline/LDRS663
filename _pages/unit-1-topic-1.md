@@ -45,15 +45,29 @@ It is this third category of tasks which characterize the ZPD and are the 'sweet
 
 #### Community of Inquiry
 
-This brings us to the idea of a 'Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article "Critical Inquiry in a text-based environment". Garrison, et.al. theorize that there are three critical components, or "presences" that compose an interactive, online learning environment: Cognitive presence, teaching presence, and social presence. At the intersection of these three presences is the heart of an educational experience.
+This brings us to the idea of a 'Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article "Critical Inquiry in a text-based environment". Garrison, et.al. theorize that there are three critical components, or "presences" that compose an interactive, online learning environment: Cognitive presence, social presence, and teaching presence. The intersection of these three presences is the heart of an educational experience.
 
 ![Community of Inquiry Model](https://github.com/TWUOnline/LDRS663/blob/Development/_assets/CoI-Model.jpg)
 
+##### Cognitive Presence
 Cognitive presence, possibly the most foundational element, is the
 > extent to which the participants in any particular configuration of a community of inquiry are able to construct meaning through sustained communication (p. 89).
 
-Recall that this cognitive process is at he heart of constructivist learning environments.
+Recall that this cognitive process is at the heart of constructivist learning environments. It seems obvious (be careful when people say that) that this construction of meaning through communication is the entire point of higher education. Your task as a student is to change your own mind, and that is a very tall order as our beliefs about many things are remarkably resilient. The way we engage in this task will have a significant bearing on the outcomes of the task.
 
+If we approach communication with too much confidence in our own views, we can shut out competing ideas to our own detriment, so it is important to bring a cautious intelligence, or, as I heard a student describe it, epistemic humility. We all know that we are wrong about some things. The trouble is we don't know what we are wrong about and how we have misunderstood.
+
+Cognitive presence in a text-based environment (like an online course) carries with it some affordances, but also some disadvantages. It is a relatively common experience for people to type something in a text message or an email, only to have their intentions grossly misunderstood because there are fewer para-linguistic cues in text compared to verbal face-to-face communication. Recent developments in incorporating emojis have started to change this, but emojis are generally considered to be too informal for 'serious scholarly work' or written professional communication. So, the relatively lean environment of text can lead to significant misunderstandings.
+
+On the other hand, for students like me who tend toward introversion, the asynchronous nature of text-based learning environments is a huge advantage. I couldn't count the number of times that I have wanted to contribute to an in-class discussion, but needed too much time to formulate a coherent response, and before I knew it, the conversation had moved on and my point was no longer relevant, having been resolved by those in the class who were more extroverted and ready with an answer. A text-based environment, however, gives me *time to think, write, revise, and then post* my response.
+
+##### Social Presence
+Garrison, et.al. describe social presence as
+>the ability of participants in the Community of Inquiry to project their personal characteristics into the community, thereby presenting themselves to the other participants as “real people.” (p. 89)
+
+In any community, and especially the TWU community, the ability to *belong* and to be accepted as a whole and integrated person is critical to people feeling like they *actually do belong*. It is for this reason that many experienced online educators encourage a more colloquial style of writing in online forums or blogs. Strict adherence to APA or other style guides virtually eliminates self-referential language such as personal pronouns. It is hard to project your personal characteristics as a real person when you can only refer to yourself in the third person.
+
+By allowing a more personal style and the projection of yourself into the community, it is thought that students will gain a sense of trust in the community and feel more empowered to participate in the difficult work of changing their minds.
 
 ## References
 
