@@ -67,7 +67,13 @@ Garrison, et.al. describe social presence as
 
 In any community, and especially the TWU community, the ability to *belong* and to be accepted as a whole and integrated person is critical to people feeling like they *actually do belong*. It is for this reason that many experienced online educators encourage a more colloquial style of writing in online forums or blogs. Strict adherence to APA or other style guides virtually eliminates self-referential language such as personal pronouns. It is hard to project your personal characteristics as a real person when you can only refer to yourself in the third person.
 
-By allowing a more personal style and the projection of yourself into the community, it is thought that students will gain a sense of trust in the community and feel more empowered to participate in the difficult work of changing their minds.
+By allowing a more personal style and the projection of self into the community, it is thought that students will build a sense of trust in the community and feel more empowered to participate in the difficult work of changing their minds. Social presence supports cognitive presence by allowing the learning environment to be safe and welcoming.
+
+##### Teaching Presence
+This final element of the CoI model is the design and facilitation of the learning experience
+>to support and enhance social and cognitive presence for the purpose of realizing educational outcomes. (p. 90).
+
+Teaching presence can be a shared function between members of the community. Garrison, et.al. point out that the design of the experience is typically perrformed by the teacher, and the facilitation is more often shared. 
 
 ## References
 
