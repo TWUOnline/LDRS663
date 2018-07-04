@@ -63,7 +63,9 @@ If this all sounds overwhelming, don't worry, we will walk you through each of t
 
 Aside from the workflow benefits that we think you will begin to appreciate in using GitHub, it is also important for your work in a FAR Centre that you understand how to use GitHub as the content for each of your FAR Centre courses will be managed and deployed from GitHub.
 
-GitHub is a tool that will allow everybody to see who has contributed and exactly what they have contributed to assignments in this course. It is a tool that will promote both positive interdependence and individual and group accountability throughout the entire process. 
+GitHub is a tool that will allow everybody to see who has contributed and exactly what they have contributed to assignments in this course. It is a tool that will promote both positive interdependence and individual and group accountability throughout the entire process.
+
+
 
 # References
 What is Cooperative Learning? (n.d.). Retrieved July 3, 2018, from http://www.co-operation.org/what-is-cooperative-learning/
