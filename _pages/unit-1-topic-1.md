@@ -45,7 +45,7 @@ It is this third category of tasks which characterize the ZPD and are the 'sweet
 
 #### Community of Inquiry
 
-This brings us to the idea of a 'Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article "Critical Inquiry in a text-based environment". Garrison, et.al. theorize that there are three critical components, or "presences" that compose an interactive, online learning environment: Cognitive presence, social presence, and teaching presence. The intersection of these three presences is the heart of an educational experience.
+This brings us to the idea of a 'Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article "Critical Inquiry in a text-based environment". Garrison, et al. theorize that there are three critical components, or "presences" that compose an interactive, online learning environment: Cognitive presence, social presence, and teaching presence. The intersection of these three presences is the heart of an educational experience.
 
 ![Community of Inquiry Model](/Users/colin.madland/Documents/GitHub/LDRS663/_assets/CoI-Model.jpg)
 
@@ -73,7 +73,7 @@ By allowing a more personal style and the projection of self into the community,
 This final element of the CoI model is the design and facilitation of the learning experience
 >to support and enhance social and cognitive presence for the purpose of realizing educational outcomes. (p. 90).
 
-Teaching presence can be a shared function between members of the community. Garrison, et.al. point out that the design of the experience is typically performed by the teacher, and the facilitation is more often shared.
+Teaching presence can be a shared function between members of the community. Garrison, et al. point out that the design of the experience is typically performed by the teacher, and the facilitation is more often shared. In a connected course like this one, there is a greater emphasis on shared facilitation in a community of learners compared to what might be experienced in a f2f course. It is in this shared discourse in a safe environment that allows learners to engage in the difficult cognitive work of learning.
 
 ## References
 

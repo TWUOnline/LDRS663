@@ -27,6 +27,11 @@ Create a new blog post and discuss your responses and how you might define inter
 ## Reading
 - [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)
 
+## Commentary
+Anderson argues that, despite the lack of clarity around definitions of interaction, there seems to be a general understanding that interaction of some sort is a requirement for learning. He settles on the definition from Wagner (1994, p.8)
+>reciprocal events that require at least two objects and two actions. Interactions occur when these objects and events mutually influence one another.
+
+
 
 ## References
 
