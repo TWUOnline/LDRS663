@@ -31,7 +31,11 @@ Create a new blog post and discuss your responses and how you might define inter
 Anderson argues that, despite the lack of clarity around definitions of interaction, there seems to be a general understanding that interaction of some sort is a requirement for learning. He settles on the definition from Wagner (1994, p.8)
 >reciprocal events that require at least two objects and two actions. Interactions occur when these objects and events mutually influence one another.
 
+He provides a model of interaction in learning environments that includes three main agents in the process: students, teachers, and content (Figure 1).
 
+![](/_assets/Modes Interaction Anderson.png)
+
+###### Figure 1. Modes of Interaction from Anderson(2003)
 
 ## References
 
