@@ -39,7 +39,9 @@ He provides a model of interaction in learning environments that includes three 
 
 At each point of the triangle are the agents in an educative process. The arrows between them indicate the two-way communication described by Wagner, and the recursive arrows above or below the agents are secondary forms of interaction.
 
-Kanuka describes a modified model of interaction which presumes that all educational interactions occur in the context of some sort of content (Figure 2.)
+Kanuka describes a modified model of interaction which presumes that all educational interactions occur in the context of some sort of content (Figure 2.).
+
+![](_assets/Kanuka-Modes-of-Interaction.png)
 
 ## References
 
