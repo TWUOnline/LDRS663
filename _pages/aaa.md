@@ -4,7 +4,7 @@ post_title: aaa
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: https://create.twu.ca/ldrs663-su18/
+permalink: https://create.twu.ca/ldrs663/
 published: true
 post_date: 2018-04-11 02:27:18
 ---

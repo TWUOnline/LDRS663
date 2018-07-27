@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs663-su18/unit-1-start/
+  https://create.twu.ca/ldrs663/unit-1-start/
 published: true
 post_date: 2018-02-27 21:49:11
 ---
@@ -25,7 +25,7 @@ Throughout this course, we will be using a web application called GitHub to mana
 
 These differences will become apparent as you become familiar with GitHub, but for now, just keep in mind that GitHub doesn't have the same 'real-time collaboration' that you see in Google Docs, where multiple people can edit the same document at the same time and everyone can see everyone else's changes in real-time.
 
-We've created a [Github Guide](https://create.twu.ca/ldrs663-su18/github-guide/) for you to get started with GitHub.
+We've created a [Github Guide](https://create.twu.ca/ldrs663/github-guide/) for you to get started with GitHub.
 
 If this all sounds overwhelming, don't worry, we will walk you through each of the skills that you will need to navigate in GitHub.
 
