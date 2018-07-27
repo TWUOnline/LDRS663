@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs663-su18/unit-1-learning-activities/
+  https://create.twu.ca/ldrs663/unit-1-learning-activities/
 published: true
 post_date: 2018-02-27 21:49:11
 ---
@@ -26,4 +26,3 @@ Please take a moment to use the audio recorder below to record a brief greeting 
 - Create a new post on your blog and describe a time where you experienced one of the three presences described in the CoI.
 
 #####
- 

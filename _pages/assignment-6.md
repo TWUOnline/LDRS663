@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs663-su18/assignment-6/
+  https://create.twu.ca/ldrs663/assignment-6/
 published: true
 post_date: 2018-05-23 21:08:57
 ---
@@ -50,7 +50,7 @@ There are some differences between working in GitHub and working in MS Word, but
 
 ###### Step 1
 - faculty interview
-- syllabus review (this is first, correct?)  (Also, this section doesn't seem to be syncing to the Wordpress site https://create.twu.ca/ldrs663-su18/assignment-2/)
+- syllabus review (this is first, correct?)  (Also, this section doesn't seem to be syncing to the Wordpress site https://create.twu.ca/ldrs663/assignment-2/)
 -
 
 You will be provided a handbook template (called a repository) in GitHub which your team will 'fork' (make a local copy). Once your team has forked the template, each individual team member will then fork the team repository (NOT the original).
