@@ -40,7 +40,7 @@ MarkDown is a very simple set of keystrokes that you can use to style your text 
 
 In MS Word, there are a couple ways to create a heading, and many different required formats for headings depending on which style guide you are using (APA, MLA, etc.). If you want a particular chunk of text to be formatted as Heading 1, you need to select the text that you want to edit, then select the 'Style' menu and choose Heading 1. You should always avoid manually changing the size, emphasis, and other embellishments (underline, italics) using the tools in Word. So, to set a chunk of text as Heading 1, you need to DO something to that text.
 
-On the contrary, using MarkDown, all you have to do to set a chunk of text to Heading 1 is to add a single `#` followed by a space prior to the text you want to style, so that 
+On the contrary, using MarkDown, all you have to do to set a chunk of text to Heading 1 is to add a single `#` followed by a space prior to the text you want to style, so that
 
 ```
 # Heading 1
