@@ -1,5 +1,5 @@
 ---
-ID: 18
+ID: 32
 post_title: Unit 1 Start
 author: Colin Madland
 post_excerpt: ""
@@ -18,6 +18,16 @@ Before we get going, please take a few moments to post and introduction to yours
 ##### Categories for this post:
 - ldrs663
 - hi
+
+### GitHub
+
+Throughout this course, we will be using a web application called GitHub to manage a large portion of your coursework. GitHub is a web tool that allows distributed teams to cooperatively contribute to documents. You might be familiar with Google Docs, which is a collaborative tool for creating and editing documents. GitHub shares some similarities with Google Docs, but there are also some important differences.
+
+These differences will become apparent as you become familiar with GitHub, but for now, just keep in mind that GitHub doesn't have the same 'real-time collaboration' that you see in Google Docs, where multiple people can edit the same document at the same time and everyone can see everyone else's changes in real-time.
+
+We've created a [Github Guide](https://create.twu.ca/ldrs663/github-guide/) for you to get started with GitHub.
+
+If this all sounds overwhelming, don't worry, we will walk you through each of the skills that you will need to navigate in GitHub.
 
 
 ### Cooperative Learning
@@ -69,3 +79,6 @@ GitHub is a tool that will allow everybody to see who has contributed and exactl
 
 # References
 What is Cooperative Learning? (n.d.). Retrieved July 3, 2018, from http://www.co-operation.org/what-is-cooperative-learning/
+
+[Link](#@johnsonMakingCooperativeLearning1999a)
+
