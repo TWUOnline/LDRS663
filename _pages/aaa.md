@@ -1,10 +1,10 @@
 ---
-ID: 197
+ID: 6
 post_title: aaa
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: https://create.twu.ca/ldrs663/
+permalink: https://create.twu.ca/ldrs663/aaa/
 published: true
 post_date: 2018-04-11 02:27:18
 ---

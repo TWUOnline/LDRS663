@@ -1,14 +1,10 @@
 ---
-ID: 125
+ID: 25
 post_title: Home
 author: Colin Madland
 post_excerpt: ""
 layout: page
-<<<<<<< HEAD
-permalink: https://create.twu.ca/ldrs663/
-=======
-permalink: https://create.twu.ca/ldrs663-su18/home/
->>>>>>> 316ea10b87d7c6cfceed58ca82bfb393f669fafb
+permalink: https://create.twu.ca/ldrs663/home/
 published: true
 post_date: 2018-03-13 23:01:03
 ---
