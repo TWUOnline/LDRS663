@@ -18,9 +18,9 @@ Welcome to LDRS 663 - <em>Coaching for Transformational Blended Learning</em>! I
 
 #### Resources
 
-Garrison, D. R., Anderson, T., & Archer, W. (2000). _Critical inquiry in a text-based environment: Computer conferencing in higher education._ The Internet and Higher Education, 2, 87-105. doi:10.1016/S1096-7516(00)00016-6 - This article is accessible through the [TWU Library](http://www.twu.ca/library)
+Garrison, D. R., Anderson, T., & Archer, W. (2000). _Critical inquiry in a text-based environment: Computer conferencing in higher education._ The Internet and Higher Education, 2, 87-105. doi:10.1016/S1096-7516(00)00016-6 - This article is accessible through the [TWU Library](http://www.twu.ca/library).
 
-Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). _Teaching in blended learning environments: Creating and sustaining communities of inquiry._ Athabasca: AU Press. - This book is available for free at [AUPress](http://www.aupress.ca/index.php/books/120229)
+Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). _Teaching in blended learning environments: Creating and sustaining communities of inquiry._ Athabasca: AU Press. - This book is available for free at [AUPress](http://www.aupress.ca/index.php/books/120229).
 
 <h4>Learning Activities</h4>
 
