@@ -75,7 +75,7 @@ Aside from the workflow benefits that we think you will begin to appreciate in u
 
 GitHub is a tool that will allow everybody to see who has contributed and exactly what they have contributed to assignments in this course. It is a tool that will promote both positive interdependence and individual and group accountability throughout the entire process.
 
-
+test
 
 # References
 What is Cooperative Learning? (n.d.). Retrieved July 3, 2018, from http://www.co-operation.org/what-is-cooperative-learning/
