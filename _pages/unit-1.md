@@ -29,13 +29,9 @@ Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). _Teaching in blended le
 <li>Your first blog post</li>
 </ol>
 
-<<<<<<< HEAD
+
 #### References
  Dewey, J. (1897). _My pedagogic creed._ In M. S. Dworkin (Ed.), Dewey on education. NewYork, NY: Teachers College Press. Retrieved from https://en.wikisource.org/wiki/My_Pedagogic_Creed
-=======
- #### References
- Dewey, J. (1897). <em>My pedagogic creed.</em> In M. S. Dworkin (Ed.), Dewey on education. NewYork, NY: Teachers College Press. Retrieved from https://en.wikisource.org/wiki/My_Pedagogic_Creed
->>>>>>> master
 
 Vygotsky, L. S. (1978). <em>Mind in society</em> (A. R. Luria, Trans.). Cambridge: Harvard University Press.
 
