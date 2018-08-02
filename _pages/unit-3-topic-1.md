@@ -30,6 +30,14 @@ In both of these visions, learning is something done *to* students, not somethin
 
  Here is another video, this time from [*Veritasium*](https://youtu.be/eVtCO84MDj8) in which Derek Muller shows why misconceptions (biases) can be so difficult to overcome.
 
-But it is important that we *can* overcome these biases and misconceptions. In fact, we can overcome some bizarre inputs as researchers have discovered.
+But it is important that we *can* overcome these biases and misconceptions. In fact, we can overcome some bizarre inputs, as [researchers have discovered](https://www.theguardian.com/education/2012/nov/12/improbable-research-seeing-upside-down).
 
-https://www.theguardian.com/education/2012/nov/12/improbable-research-seeing-upside-down
+Here is a slightly less scientifically rigourous portrayal of what happens when our [vision is artificially flipped](https://youtu.be/OJTC_E2Nlgg).
+
+The point of these experiments, at least for our purposes, is that human brains (and likely other animals as well) demonstrate the characteristic of *plasticity*. The connections in our brain that allow ideas to form and be adjusted can be broken and then reconnected in different configurations.
+
+This is learning. Learning is hard work.
+
+One implication of this is that it is naive for educators to assume that a single exposure to an idea will somehow cause learning. In fact, the opposite is true. It takes repeated exposure, practice, error-correction, and adjustment for learning to become consolidated.
+
+Learning Activity 3.2 is an opportunity for you to engage with more complex ideas related to how people learn.

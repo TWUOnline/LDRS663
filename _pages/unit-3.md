@@ -29,6 +29,8 @@ Upon successful completion of this unit, students will be able to
 
 #### Learning Activities
 - weekly blogging
+  - [30-Day challenge](https://youtu.be/UNP03fDSj1U)
+  - [Backwards Bike](https://youtu.be/MFzDaBzBlL0)
 -
 
 #### Resources
