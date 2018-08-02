@@ -29,3 +29,7 @@ In both of these visions, learning is something done *to* students, not somethin
  This process is also true for people learning new ideas. None of us come to a learning context without preconceived ideas regarding the nature of the topic to be studied, and often, those ideas are incorrect. They are misconceptions. Biases. Then, when new information comes along, our brain actively sabotages us by telling us that we already know this and we don't need to listen, while simultaneously convincing us even more of the truth our misconceptions.
 
  Here is another video, this time from [*Veritasium*](https://youtu.be/eVtCO84MDj8) in which Derek Muller shows why misconceptions (biases) can be so difficult to overcome.
+
+But it is important that we *can* overcome these biases and misconceptions. In fact, we can overcome some bizarre inputs as researchers have discovered.
+
+https://www.theguardian.com/education/2012/nov/12/improbable-research-seeing-upside-down
