@@ -20,3 +20,15 @@ Chapters 1-3 of *How people learn: Brain, mind, experience and school*, availabl
 <iframe width="500" height="350" src="//www.nap.edu/widget/9853" frameborder="0" scrolling="no"></iframe>
 
 ##### Respond
+
+Complete a 12-picture Photo Safari on the theme of *learning*.
+
+- plan ahead and find a location where you can take pictures that symbolize learning in some way
+- your first and last images will be of a clock (maybe screenshots from your phone) showing your beginning time and then your ending time 15 minutes later.
+- use some of the key points from your readings to inspire your images
+- publish your photo safari on your site
+
+###### Categories for this post
+- ldrs663
+- learning
+- safari

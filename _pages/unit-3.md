@@ -28,15 +28,14 @@ Upon successful completion of this unit, students will be able to
 - analyze existing learning materials and recommend interactive learning activities to enhance learning.
 
 #### Learning Activities
-- weekly blogging
-  - [30-Day challenge](https://youtu.be/UNP03fDSj1U)
-  - [Backwards Bike](https://youtu.be/MFzDaBzBlL0)
+
+  - Activity 3.1 - [30-Day challenge](https://create.twu.ca/ldrs663/la-3-1/)
+  - Activity 3.2 - [Teaching Teaching and Understanding Understanding](https://create.twu.ca/ldrs663/la-3-2/)
+  - Activity 3.3 - [Photo Safari](https://create.twu.ca/ldrs663/la-3-3/)
 -
 
 #### Resources
 
 Bransford, J. D., Brown, A. L., & Cocking, R. R. (2000). *How people learn: Brain, mind, experience and school*. Washington, DC: National Academy Press.
 
-[Teaching Teaching & Understanding Understanding Part 1 (8 mins)](https://www.youtube.com/watch?v=iMZA80XpP6Y)
-[Teaching Teaching & Understanding Understanding Part 2 (6 mins)](https://www.youtube.com/watch?v=SfloUd3eO_M)
-[Teaching Teaching & Understanding Understanding Part 3 (6 mins)](https://www.youtube.com/watch?v=w6rx-GBBwVg)
+[Teaching Teaching & Understanding Understanding Playlist - 3 Videos (8 mins, 6 mins, 6 mins)](https://youtu.be/iMZA80XpP6Y)
