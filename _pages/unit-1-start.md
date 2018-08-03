@@ -18,9 +18,11 @@ Before we get going, please take a few moments to post and introduction to yours
 ##### Categories for this post:
 - ldrs663
 - hi
-'''Could you explain categories for students and what you'd like them to do with them?'''
+```
+Could you explain categories for students and what you'd like them to do with them?
+```
 
-'''I'm not sure if we need the next few sections here.  Do they mostly relate to an assignment?  (When do they start using Github?)  If you want to keep any of the content here, perhaps an intro - such as "This course depends on Cooperative Learning, Positive Interdependence, etc."  We can always introduce them when they start their group work.'''
+''' I'm not sure if we need the next few sections here.  Do they mostly relate to an assignment?  (When do they start using Github?)  If you want to keep any of the content here, perhaps an intro - such as "This course depends on Cooperative Learning, Positive Interdependence, etc."  We can always introduce them when they start their group work. '''
 
 ### GitHub
 '''This section in particular may be overwhelming.  Let's get them into the course and then explain more when they need to use it.  If you want to mention briefly that they'll be using Github - but assure them they'll learn more about it later - then that could make more sense'''
@@ -85,4 +87,3 @@ test
 What is Cooperative Learning? (n.d.). Retrieved July 3, 2018, from http://www.co-operation.org/what-is-cooperative-learning/
 
 [Link](#@johnsonMakingCooperativeLearning1999a)
-
