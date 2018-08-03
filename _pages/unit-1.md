@@ -18,8 +18,11 @@ Welcome to LDRS 663 - _Coaching for Transformational Blended Learning_! In this 
 Unit 1 is divided into 3 topics:
 
 Topic 1: Introduction to the Community of Inquiry Model
+
 Topic 2: Characteristics of 3 presences
+
 Topic 3: Modes of Interaction
+
 Topic 4: Interaction Equivalency Theorem
 
 
@@ -40,11 +43,12 @@ Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). _Teaching in blended le
 
 #### Learning Activities
 
-1.  Self-Introduction
-2.  Get started in GitHub
-3.  Readings
-4.  Your first blog post
+Activity 1.1:  Self-Introduction
+Activity 1.2:  Get started in GitHub
+Activity 1.3:  Readings
+Activity 1.4:  Your first blog post
 
+'''We can review the learning activities at the end of the unit development process to check whether the numbers and titles are correct'''
 
 #### References
 
