@@ -49,8 +49,10 @@ On successful completion of this course, students should be able to:
 | Weekly blog posts | 20% (10 @ 2% ea) | 1-5 |
 | Learning environment critique | 20% | 1, 4 |
 | FAR Handbook Creation | 30% | 2, 5 |
-| Lesson Design (Liberating Structures) | 10% | 2, 4 |
-| Teach a Lesson (Liberating Structures) | 20% | 2-5 |
+| Lesson Design | 10% | 2, 4 |
+| Lesson 'Presentation'  | 20% | 2-5 |
+
+'''Suggested changes for the lesson assignment titles'''
 
 ### Prerequisites
 - Leadership 627 - Theories of Adult education
