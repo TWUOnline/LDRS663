@@ -14,7 +14,6 @@ post_date: 2018-02-27 21:49:11
 
 Welcome to LDRS 663 - <em>Coaching for Transformational Blended Learning</em>! In this first unit, we will begin by considering the nature of learning communities through the lens of a model called the <em>Community of Inquiry (CoI)</em> (<a href="https://www.sciencedirect.com/science/article/pii/S1096751600000166?">Garrison et al., 2000</a>; <a href="http://www.aupress.ca/index.php/books/120229">Vaughan et al., 2013</a>). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process (<a href="https://en.wikisource.org/wiki/My_Pedagogic_Creed">Dewey, 1897</a>; <a href="https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=cat05965a&amp;AN=alc.191437&amp;site=eds-live">Vygotsky, 1978</a>). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU FAR Centres.
 
-```enter Learning Outcomes & Topics.```
 
 #### Resources
 
@@ -35,8 +34,6 @@ Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). _Teaching in blended le
 #### References
 
  Dewey, J. (1897). _My pedagogic creed._ In M. S. Dworkin (Ed.), Dewey on education. NewYork, NY: Teachers College Press. Retrieved from https://en.wikisource.org/wiki/My_Pedagogic_Creed
-
- Dewey, J. (1897). <em>My pedagogic creed.</em> In M. S. Dworkin (Ed.), Dewey on education. NewYork, NY: Teachers College Press. Retrieved from https://en.wikisource.org/wiki/My_Pedagogic_Creed
 
 Vygotsky, L. S. (1978). <em>Mind in society</em> (A. R. Luria, Trans.). Cambridge: Harvard University Press.
 
