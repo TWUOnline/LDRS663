@@ -31,11 +31,10 @@ On successful completion of this course, students should be able to:
 3. apply intercultural competencies in coaching learners in transformational blended learning environments;
 4. evaluate the quality of feedback in light of evidence-based research
 5. evaluate interactions in a learning environment and develop strategies for  high quality educative interactions;
-6. Design cognitive and social 'learning' activities to meet learning outcomes.
+6. Design cognitive and social learning activities to meet learning outcomes.
 7. apply multi-modal communication and collaboration tools effectively to support learning in a higher education context.
 8. apply information and media literacies to research, produce, analyse and present information online.
 
-'''should we add learning to #6? It sounds a bit strage to design social activities - perhaps use communicative activities, or social classroom activities?'''
 
 ### Student Evaluation
 
@@ -46,8 +45,6 @@ On successful completion of this course, students should be able to:
 | FAR Handbook Creation | 30% | 2, 5 |
 | Lesson Design | 10% | 2, 4 |
 | Lesson 'Presentation'  | 20% | 2-5 |
-
-'''Suggested changes for the lesson assignment titles'''
 
 
 ### Prerequisites
