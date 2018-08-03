@@ -14,9 +14,25 @@ post_date: 2018-02-27 21:49:11
 
 Welcome to LDRS 663 - <em>Coaching for Transformational Blended Learning</em>! In this first unit, we will begin by considering the nature of learning communities through the lens of a model called the <em>Community of Inquiry (CoI)</em> (<a href="https://www.sciencedirect.com/science/article/pii/S1096751600000166?">Garrison et al., 2000</a>; <a href="http://www.aupress.ca/index.php/books/120229">Vaughan et al., 2013</a>). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process (<a href="https://en.wikisource.org/wiki/My_Pedagogic_Creed">Dewey, 1897</a>; <a href="https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=cat05965a&amp;AN=alc.191437&amp;site=eds-live">Vygotsky, 1978</a>). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU FAR Centres.
 
-`enter Learning Outcomes & Topics`
+####Topics####
+Unit 1 is divided into 3 topics:
+
+Topic 1: Introduction to the Community of Inquiry Model
+Topic 2: Characteristics of 3 presences
+Topic 3: Modes of Interaction
+Topic 4: Interaction Equivalency Theorem
+
+
+####Learning Outcomes####
+When you have completed this unit you should be able to:
+
+- analyze the characteristics of the Community of Inquiry model 
+- evaluate different modes of interaction
+- criticize the Interaction Equivalency Theorem
+
 
 #### Resources
+Here are the resources you will need to complete this unit:
 
 Garrison, D. R., Anderson, T., & Archer, W. (2000). _Critical inquiry in a text-based environment: Computer conferencing in higher education._ The Internet and Higher Education, 2, 87-105. doi:10.1016/S1096-7516(00)00016-6 - This article is accessible through the [TWU Library](http://www.twu.ca/library).
 
