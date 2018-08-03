@@ -44,8 +44,10 @@ On successful completion of this course, students should be able to:
 | Weekly blog posts | 20% (10 @ 2% ea) | 1-5 |
 | Learning environment critique | 20% | 1, 4 |
 | FAR Handbook Creation | 30% | 2, 5 |
-| Lesson Design (Liberating Structures) | 10% | 2, 4 |
-| Teach a Lesson (Liberating Structures) | 20% | 2-5 |
+| Lesson Design | 10% | 2, 4 |
+| Lesson 'Presentation'  | 20% | 2-5 |
+
+'''Suggested changes for the lesson assignment titles'''
 
 
 ### Prerequisites
@@ -59,3 +61,9 @@ Bates, T. (2015). [Teaching in a digital age.](https://open.bccampus.ca/find-ope
 Campbell, G. (2009). [A Personal Cyberinfrastructure.](https://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure) EDUCAUSE Review, 44(5), 58-59.
 
 Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). [Teaching in blended learning environments: Creating and sustaining communities of inquiry.](http://www.aupress.ca/index.php/books/120229) Athabasca: AU Press.
+
+### Course Topics
+
+### Modality
+
+Mixed modalities: Web-based and classroom
