@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-27 21:49:11
 ---
+####Learning Activity 3.1: Challenge!
+```Where does this activity take place? What does it connect with?  Could I suggest we keep it with the topics and then separate them if it makes sense for the flow of the course?  As it is now, it's difficult to see the flow of the unit.  Also, perhaps we need an intro sentence to relate it to the topic.```
 
 Check out [this challenge](http://anth101.com/challenge3/) from the open online course *Anthropology 101: The Art of Being Human*
 
@@ -21,3 +23,5 @@ Please publish regular updates for the three weeks following this week of the co
 Categories for these posts:
 - ldrs663
 - 28DayChallenge
+
+```I'm a little surprised by this activity as it seems like an extra major assignment. Is this an optional learning activity (most should be formative and ungraded), or part of the assigned blog that is graded?  Could we be clear about this for students?  Also, does it meet the learning outcomes for the unit/course?  I think it's a fantastic activity, and I think we should strongly encourage students to take the challenge, however, does it distract from other learning/assignments?  Learning Github may be a great challenge for students, so I'm wondering about the workload here.```
