@@ -19,7 +19,7 @@ Unit 1 is divided into 3 topics:
 
 Topic 1: Introduction to the Community of Inquiry Model
 
-Topic 2: Characteristics of 3 presences
+~~Topic 2: Characteristics of 3 presences~~
 
 Topic 3: Modes of Interaction
 
