@@ -22,8 +22,7 @@ As you can see, the artist envisioned a process whereby information was fed into
 
 In both of these visions, learning is something done *to* students, not something done *by* students. The learner is completely passive in the process. The dreams of grade-schoolers to be able to rest a book on their head and learn by osmosis are just as far-fetched as the prognostications from the early 20th century, from the Matrix, and from the claims of many edtech companies today. Learning is hard work.
 
- Take a few minutes to watch this video from Destin Sandlin, creator of the YouTube channel [*Smarter Every Day*](https://youtu.be/MFzDaBzBlL0) (8 minutes).
- ```I added the minutes, as we should emphasize students should watch the full 8 minutes. At first, it kind of took me out of the lesson, but around the 3.5 minute mark, it came back to the focus on learning. Not sure if you want to mention something about that.```
+ Take a few minutes to watch this video from Destin Sandlin, creator of the YouTube channel [*Smarter Every Day*](https://youtu.be/MFzDaBzBlL0) (8 minutes). The video has a long introduction, but it's entertaining and sets up the problem of learning very well.
 
  Destin talks about some important ideas related to pedagogy (the study of how children learn) that are also applicable to andragogy (the study of how adults learn). One of those ideas is that *knowledge != understanding* (and now you know that the '!' negates the '=' in that statement). A little later in this unit, when we talk about deep and surface approaches to learning, we will come back around to this idea. As a way to consolidate your own learning around this idea, take a few minutes to think about a time when you have had knowledge, but not understanding, and how that affected you in some way. You don't have to write anything down, just connect the idea to an experience that you have had.
 
@@ -31,14 +30,11 @@ In the video, Destin also talks about cognitive bias and the tremendously powerf
 
  This process is also true for people learning new ideas. None of us come to a learning context without preconceived ideas regarding the nature of the topic to be studied, and often, those ideas are incorrect. They are misconceptions. Biases. Then, when new information comes along, our brain actively sabotages us by telling us that we already know this and we don't need to listen, while simultaneously convincing us even more of the truth our misconceptions.
 
- Here is another video, this time from [*Veritasium*](https://youtu.be/eVtCO84MDj8) in which Derek Muller shows why misconceptions (biases) can be so difficult to overcome (8 minutes).
- ```Please confirm that students should watch the full 8 minutes.```
+ Here is another video, this time from [*Veritasium*](https://youtu.be/eVtCO84MDj8) in which Derek Muller shows why misconceptions (biases) can be so difficult to overcome (watch the full 8 minutes).
 
-But it is important that we *can* overcome these biases and misconceptions. In fact, we can overcome some bizarre inputs, as [researchers have discovered](https://www.theguardian.com/education/2012/nov/12/improbable-research-seeing-upside-down).
-```Not sure if we need the 'but' to introduce the sentence here. Students have just watched an 8 minute video, so not sure if this flows.  Also, we may want to consider embedding some of the required viewing, and then linking to the optional sites.  For example, here I'm not sure if you want students to read the whole article.  Perhaps guidance on what is required?```
+Despite the difficulty, it is important to note that we *can* overcome these biases and misconceptions. In fact, we can overcome some bizarre inputs, as [researchers have discovered and was briefly reported in The Guardian](https://www.theguardian.com/education/2012/nov/12/improbable-research-seeing-upside-down).
 
-Here is a slightly less scientifically rigourous portrayal of what happens when our [vision is artificially flipped](https://youtu.be/OJTC_E2Nlgg) (12 minutes).
-```Could we guide students here as well? For example "Watch the first 2 minutes of this video)```
+Here is a slightly less scientifically rigorous portrayal of what happens when our [vision is artificially flipped](https://youtu.be/OJTC_E2Nlgg) (12 minutes, but you don't need to watch it all).
 
 The point of these experiments, at least for our purposes, is that human brains (and likely other animals as well) demonstrate the characteristic of *plasticity*. The connections in our brain that allow ideas to form and be adjusted can be broken and then reconnected in different configurations.
 
