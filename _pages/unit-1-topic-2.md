@@ -9,8 +9,14 @@ permalink: >
 published: true
 post_date: 2018-04-10 21:56:03
 ---
+```This is a confusing page, as it says Topic 2 but Topics 3 and 4 are here?  Let's be sure to have the titles
+Topic 1: Introduction to the Community of Inquiry Model Topic 2: Characteristics of 3 presences Topic 3: Modes of Interaction Topic 4: Interaction Equivalency Theorem```
 
-## Interaction
+## Topic 3: Interaction
+For this next topic...
+```Could you confirm that the learning activity below is to be done before getting into the topic?  Perhaps add a line or two introducing the topic?```
+
+####Learning Activity 1.4: Interaction Scenarios
 
 Please take a few minutes to answer the following questions about scenarios that may or may not be considered 'interaction'.
 
@@ -24,7 +30,10 @@ Create a new blog post and discuss your responses and how you might define inter
 - LDRS663
 - interaction
 
-## Reading
+```Should we have the commentary before the reading?  Or at least more teaching about the topic of interaction before students complete this activity?```
+
+####Learning Activity 1.5: Reading
+Read the following article by Terry Anderson
 - [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)
 
 ## Commentary
@@ -39,7 +48,8 @@ He provides a model of interaction in learning environments that includes three 
 
 At each point of the triangle are the agents in an educative process. The arrows between them indicate the two-way communication described by Wagner, and the recursive arrows above or below the agents are secondary forms of interaction.
 
-### Interaction Equivalency
+### Topic 4" Interaction Equivalency Theorem ```please confirm that this topic goes here?```
+For our last topic of unit 1...
 Anderson (2003) also describes what he calls the *Interaction Equivalency Theorem*, stated as
 
 >Deep and meaningful formal learning is supported as long as one of the three forms of interaction (student–teacher; student-student; student-content) is at a high level. The other two may be offered at minimal levels, or even eliminated, without degrading the educational experience.
@@ -67,6 +77,7 @@ A combination of these two models was described by Madland (2014). Madland's mod
 
 ![](/_assets/Modes-of-Interaction-Madland.png)
 ###### Figure 3. Modes of Interaction from Madland (2014).
+```Could we refer students to the article that this is from?  Link either in the paragraph or this figure?```
 
 It is not enough to simply expect interactions between learners and instructors to be goal-oriented towards learning outcomes. Educators must design specific activities (teaching presence) to create the conditions (social presence) for learning to occur (cognitive presence). An example of this can be seen in the seemingly ubiquitous 'Group Project' assigned in so many undergraduate courses. Sometimes, groups are allowed to form themselves, other times, the instructor assigns groups, or there is some sort of random process to create groups. However they are formed, groups too often fall into a pattern of behaviour where one or two of the students do most of the work and the remaining group members engage in social loafing and benefit from their peers' work.
 
@@ -74,7 +85,24 @@ An alternative practice is to engage groups in a specific structured process of 
 
 There are myriad structures that can be used to ensure that interactions are inclined towards producing student learning, and we will introduce you to some of those in unit 5.
 
+```I moved this from the separate activities page, as some activities are with the topics, others are not.  Could we discuss the unit page structure/progression? Perhaps a different page (with activities) for each topic?  Let me know what you think.```
 
+####Learning Activity 1.5
+- Read Getting the mix right again: An updated and theoretical rationale for interaction by Terry Anderson
+- Read Interaction and the online distance classroom: Do instructional methods effect the quality of interaction? by Heather Kanuka
+For each post below, ensure that your post is on-topic (defend or criticize the idea not a person) and include something that you have learned about interaction from somewhere other than the assigned readings.
+
+If your birthday is between January 1 and June 30, create a post on your site where you defend Anderson's Interaction Equivalency Theorem.
+
+Categories
+- ldrs663
+- interaction-for
+If your birthday is between July 1 and December 31, create a post on your site where you criticize Anderson's Interaction Equivalency Theorem
+
+Categories
+- ldrs663
+- interaction-against
+Each student should also create a rebuttal post which includes a counter-argument to a point from the opposite side.
 
 
 ## References
