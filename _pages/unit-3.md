@@ -30,7 +30,9 @@ Upon successful completion of this unit, students will be able to
 - recommend high impact learning practices for students in international learning contexts.
 - analyze learning materials and recommend interactive learning activities to enhance learning.
 
-```the 3rd lo seems a little far-reaching.  Could we delete - in any given field of knowledge.  I'm sure none of us can evaluate that for every field!!  The LO in the blueprint is more simple.  Also, do we need 'existing' in LO 4?```
+```
+the 3rd lo seems a little far-reaching.  Could we delete - in any given field of knowledge.  I'm sure none of us can evaluate that for every field!!  The LO in the blueprint is more simple.  Also, do we need 'existing' in LO 4?
+```
 
 #### Learning Activities
 
@@ -38,7 +40,9 @@ Upon successful completion of this unit, students will be able to
   - Activity 3.2 - [Teaching Teaching and Understanding Understanding](https://create.twu.ca/ldrs663/la-3-2/)
   - Activity 3.3 - [Photo Safari](https://create.twu.ca/ldrs663/la-3-3/)
 -
-```I'd suggest we don't link out to the activities here, but rather just list the title, or alternatively a sentence on what students will do.  Otherwise, they may click on the links prematurely and lose the flow of the unit.```
+```
+I'd suggest we don't link out to the activities here, but rather just list the title, or alternatively a sentence on what students will do.  Otherwise, they may click on the links prematurely and lose the flow of the unit.
+```
 
 #### Resources
 
