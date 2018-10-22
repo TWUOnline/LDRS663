@@ -11,7 +11,9 @@ post_date: 2018-04-10 21:56:03
 ---
 ### Unit 1, Topic 1: Introduction to the Community of Inquiry Model
 
-```I moved this from the start page, as in the Overview we list it as a learning activity```
+```
+I moved this from the start page, as in the Overview we list it as a learning activity
+```
 
 #### Learning Activity 1.1: Introductions
 Before we get going, please take a few moments to post and introduction to yourself on your blog. Set the featured image of your post to an image which communicates the idea of 'Community' and a short explanation for your choice.
@@ -21,14 +23,14 @@ In all of your blog posts in this course, remember to include the proper categor
 Categories for this post:
 - ldrs663
 - hi
-```should we also say how to add a category?```
+`should we also say how to add a category?`
 
 
 #### Learning Activity 1.2: My Learning Experience ```or another title```
 
 Before you dive into the content of this first unit in LDRS627, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of *what* you learned, but profound because of the fact that you still remember *that* you learned something and *how* you learned it. Pick one or two of those experiences and share them in a post on your blog before you move on to the next activity. '''I'd suggest we have them do this now, as the next activity mentions posts they will have read about this''' Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it? Take a few moments to read some of your colleagues' posts as well.
 
-Remember to include the following categories for this post, as listed below. 
+Remember to include the following categories for this post, as listed below.
 
 ##### Categories for this post:
 - LDRS663
@@ -39,7 +41,7 @@ Remember to include the following categories for this post, as listed below.
 There is a very good chance that the posts you read as part of #LA1.1 included a description of some sort of social interaction ```I deleted this last part of the sentence, as it sounded a bit awkward```. This isn't always the case, but the idea that learning is a social process has a long history in education. Many theorists credit John Dewey for bringing this idea to the forefront of educators' minds. In his 1897 treatise *My Pedagogic Creed* he writes:
 
 > I believe that the school is primarily a social institution. Education being a social process, the school is simply that form of community life in which all those agencies are concentrated that will be most effective in bringing the child to share in the inherited resources of the race, and to use his own powers for social ends.
-```could we have a reference - page number here?```
+`could we have a reference - page number here?`
 The idea didn't originate with Dewey, though, as we know that in first-century Palestine there was a certain itinerant teacher whose lessons were profoundly impactful on a small group of young men and women who were called to live and learn in a deeply personal and social community.
 
 Following Dewey, many others, such as Jean Piaget, Jerome Bruner, and Lev Vygotsky (see [Driscoll, 2005)](https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.1254633&site=eds-live) have written about what has now become known as the educational theory of *social constructivism*, or, more concisely, constructivism. Driscoll (2005) describes constructivism as a theory that
@@ -124,4 +126,3 @@ Dewey, J. (1897). *My pedagogic creed.* In M. S. Dworkin (Ed.), *Dewey on educat
 Driscoll, M. P. (2005). *Psychology of learning for instruction* (3rd ed.). Boston: Pearson Education.
 
 Vygotsky, L. S. (1978). *Mind in society.* (A. R. Luria, Trans.). Cambridge: Harvard University Press.
-

@@ -18,4 +18,4 @@ Modern conceptions of the learning process are based on the idea that knowledge 
 
 Social constructivism is the idea that this process of integrating new understandings with old understandings is best understood as a social process. Vygotsky's model of the Zone of Proximal Development (ZPD) is helpful in understanding how this is conceptualized. The ZPD is the 'sweet spot' in education where a student is optimally challenged to learn. If the task is too easy for the student, and they have already mastered it, then learning activities will not result in learning. Conversely, if a task is so difficult that the student cannot complete it, even with assistance, learning activities will not result in learning. In the middle are tasks that a student is able to complete, but only with the assistance of a more capable peer or expert. This is the Zone of Proximal Development.
 
-! [Zone of Proximal Development](https://github.com/TWUOnline/LDRS663/blob/master/_assets/ZPD.png)
+![](/_assets/ZPD.png)
