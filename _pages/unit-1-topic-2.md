@@ -9,12 +9,16 @@ permalink: >
 published: true
 post_date: 2018-04-10 21:56:03
 ---
-```This is a confusing page, as it says Topic 2 but Topics 3 and 4 are here?  Let's be sure to have the titles
-Topic 1: Introduction to the Community of Inquiry Model Topic 2: Characteristics of 3 presences Topic 3: Modes of Interaction Topic 4: Interaction Equivalency Theorem```
+```
+This is a confusing page, as it says Topic 2 but Topics 3 and 4 are here?  Let's be sure to have the titles
+Topic 1: Introduction to the Community of Inquiry Model Topic 2: Characteristics of 3 presences Topic 3: Modes of Interaction Topic 4: Interaction Equivalency Theorem
+```
 
 ## Topic 3: Interaction
 For this next topic...
-```Could you confirm that the learning activity below is to be done before getting into the topic?  Perhaps add a line or two introducing the topic?```
+```
+Could you confirm that the learning activity below is to be done before getting into the topic?  Perhaps add a line or two introducing the topic?
+```
 
 ####Learning Activity 1.4: Interaction Scenarios
 
