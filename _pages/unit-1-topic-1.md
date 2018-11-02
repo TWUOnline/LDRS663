@@ -11,9 +11,7 @@ post_date: 2018-04-10 21:56:03
 ---
 ### Unit 1, Topic 1: Introduction to the Community of Inquiry Model
 
-```
-I moved this from the start page, as in the Overview we list it as a learning activity
-```
+`I moved this from the start page, as in the Overview we list it as a learning activity`
 
 #### Learning Activity 1.1: Introductions
 Before we get going, please take a few moments to post and introduction to yourself on your blog. Set the featured image of your post to an image which communicates the idea of 'Community' and a short explanation for your choice.
@@ -26,7 +24,7 @@ Categories for this post:
 `should we also say how to add a category?`
 
 
-#### Learning Activity 1.2: My Learning Experience ```or another title```
+#### Learning Activity 1.2: My Learning Experience `or another title`
 
 Before you dive into the content of this first unit in LDRS627, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of *what* you learned, but profound because of the fact that you still remember *that* you learned something and *how* you learned it. Pick one or two of those experiences and share them in a post on your blog before you move on to the next activity. '''I'd suggest we have them do this now, as the next activity mentions posts they will have read about this''' Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it? Take a few moments to read some of your colleagues' posts as well.
 
@@ -38,7 +36,7 @@ Remember to include the following categories for this post, as listed below.
 
 #### Social Constructivism
 
-There is a very good chance that the posts you read as part of #LA1.1 included a description of some sort of social interaction ```I deleted this last part of the sentence, as it sounded a bit awkward```. This isn't always the case, but the idea that learning is a social process has a long history in education. Many theorists credit John Dewey for bringing this idea to the forefront of educators' minds. In his 1897 treatise *My Pedagogic Creed* he writes:
+There is a very good chance that the posts you read as part of #LA1.1 included a description of some sort of social interaction `I deleted this last part of the sentence, as it sounded a bit awkward`. This isn't always the case, but the idea that learning is a social process has a long history in education. Many theorists credit John Dewey for bringing this idea to the forefront of educators' minds. In his 1897 treatise *My Pedagogic Creed* he writes:
 
 > I believe that the school is primarily a social institution. Education being a social process, the school is simply that form of community life in which all those agencies are concentrated that will be most effective in bringing the child to share in the inherited resources of the race, and to use his own powers for social ends.
 `could we have a reference - page number here?`
@@ -63,7 +61,7 @@ It is this third category of tasks which characterize the ZPD and are the 'sweet
 This brings us to the idea of a 'Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article "Critical Inquiry in a text-based environment". Garrison, et al. theorize that there are three critical components, or "presences" that compose an interactive, online learning environment: Cognitive presence, social presence, and teaching presence. The intersection of these three presences is the heart of an educational experience.
 
 ![Community of Inquiry Model](/Users/colin.madland/Documents/GitHub/LDRS663/_assets/CoI-Model.jpg)
-```broken link?```
+`broken link?`
 
 ##### Cognitive Presence
 Cognitive presence, possibly the most foundational element, is the
@@ -75,7 +73,7 @@ If we approach communication with too much confidence in our own views, we can s
 
 Cognitive presence in a text-based environment (like an online course) carries with it some affordances, but also some disadvantages. It is a relatively common experience for people to type something in a text message or an email, only to have their intentions grossly misunderstood because there are fewer para-linguistic cues in text compared to verbal face-to-face communication. Recent developments in incorporating emojis have started to change this, but emojis are generally considered to be too informal for 'serious scholarly work' or written professional communication. So, the relatively lean environment of text can lead to significant misunderstandings.
 
-On the other hand, for learners ```I changed this, as students may think their instructor is a peer``` like me who tend toward introversion, the asynchronous nature of text-based learning environments is a huge advantage. I couldn't count the number of times that I have wanted to contribute to an in-class discussion, but needed too much time to formulate a coherent response, and before I knew it, the conversation had moved on. My point was no longer relevant, having been resolved by those in the class who were more extroverted and ready with an answer. A text-based environment, however, gives me *time to think, write, revise, and then post* my response.
+On the other hand, for learners `I changed this, as students may think their instructor is a peer` like me who tend toward introversion, the asynchronous nature of text-based learning environments is a huge advantage. I couldn't count the number of times that I have wanted to contribute to an in-class discussion, but needed too much time to formulate a coherent response, and before I knew it, the conversation had moved on. My point was no longer relevant, having been resolved by those in the class who were more extroverted and ready with an answer. A text-based environment, however, gives me *time to think, write, revise, and then post* my response.
 
 ##### Social Presence
 Garrison, et.al. describe social presence as
@@ -91,7 +89,7 @@ This final element of the CoI model is the design and facilitation of the learni
 
 Teaching presence can be a shared function between members of the community. Garrison, et al. point out that the design of the experience is typically performed by the teacher, and the facilitation is more often shared. In a connected course like this one, there is a greater emphasis on shared facilitation in a community of learners compared to what might be experienced in a f2f course. It is in this shared discourse in a safe environment that allows learners to engage in the difficult cognitive work of learning.
 
-```I'd suggest we add the learning activities here```
+`I'd suggest we add the learning activities here`
 
 #### Learning Activity 1.3
 Read Critical inquiry in a text-based environment: Computer conferencing in higher education. available at https://www.sciencedirect.com/science/article/pii/S1096751600000166 if you are logged into the TWU library.
