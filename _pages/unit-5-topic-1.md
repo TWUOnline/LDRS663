@@ -28,4 +28,10 @@ Teaching with the ZPD in mind assumes that you, as the teacher, know what knowle
 
 ### Cooperative Learning
 
-Cooperative learning is a set of teaching and learning strategies that are focussed on encouraging educative social interactions between learners.
+Cooperative learning is a set of teaching and learning strategies that are focussed on encouraging educative social interactions between learners. It is important to not conflate *cooperative learning* with *group projects* as you might remember them from your previous experiences in higher ed. Group projects are often assigned because faculty seem to have a sense that *working together* is a good thing for students, along with a vague sense that modern jobs all require teamwork. Too often, they amount to repurposing an individual assignment (maybe a research paper) into the same task, but with multiple people handing in one item instead of 3-4. When these tasks are not well structured, the process becomes problematic.
+
+![](_assets/group-projects.jpg)
+
+We have all likely experienced less-than-ideal group projects where one or two people do most of the work, one member is seemingly absent altogether, and another's work is of poor quality. This is not the kind of learning activity that inspires highly engaged learners.
+
+Contrary to that model, cooperative learning is structured in a way that maximizes effort from all students and, ideally, leads to all group members attaining high-level learning outcomes. In order to ensure this, there are 5 characteristics of learning groups that must be present for cooperative learning to occur: "positive interdependence, individual accountability, promotive interactions, appropriate use of social skills, and group processing" (Johnson & Johnson, 2009, p. 366).
