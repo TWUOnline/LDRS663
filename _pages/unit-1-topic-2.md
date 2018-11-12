@@ -34,7 +34,7 @@ Create a new blog post and discuss your responses and how you might define inter
 - LDRS663
 - interaction
 
-```Should we have the commentary before the reading?  Or at least more teaching about the topic of interaction before students complete this activity?```
+`Should we have the commentary before the reading?  Or at least more teaching about the topic of interaction before students complete this activity?`
 
 ####Learning Activity 1.5: Reading
 Read the following article by Terry Anderson
@@ -52,7 +52,7 @@ He provides a model of interaction in learning environments that includes three 
 
 At each point of the triangle are the agents in an educative process. The arrows between them indicate the two-way communication described by Wagner, and the recursive arrows above or below the agents are secondary forms of interaction.
 
-### Topic 4" Interaction Equivalency Theorem ```please confirm that this topic goes here?```
+### Topic 4" Interaction Equivalency Theorem `please confirm that this topic goes here?`
 For our last topic of unit 1...
 Anderson (2003) also describes what he calls the *Interaction Equivalency Theorem*, stated as
 
@@ -81,7 +81,7 @@ A combination of these two models was described by Madland (2014). Madland's mod
 
 ![](/_assets/Modes-of-Interaction-Madland.png)
 ###### Figure 3. Modes of Interaction from Madland (2014).
-```Could we refer students to the article that this is from?  Link either in the paragraph or this figure?```
+`Could we refer students to the article that this is from?  Link either in the paragraph or this figure?`
 
 It is not enough to simply expect interactions between learners and instructors to be goal-oriented towards learning outcomes. Educators must design specific activities (teaching presence) to create the conditions (social presence) for learning to occur (cognitive presence). An example of this can be seen in the seemingly ubiquitous 'Group Project' assigned in so many undergraduate courses. Sometimes, groups are allowed to form themselves, other times, the instructor assigns groups, or there is some sort of random process to create groups. However they are formed, groups too often fall into a pattern of behaviour where one or two of the students do most of the work and the remaining group members engage in social loafing and benefit from their peers' work.
 
@@ -89,7 +89,9 @@ An alternative practice is to engage groups in a specific structured process of 
 
 There are myriad structures that can be used to ensure that interactions are inclined towards producing student learning, and we will introduce you to some of those in unit 5.
 
-```I moved this from the separate activities page, as some activities are with the topics, others are not.  Could we discuss the unit page structure/progression? Perhaps a different page (with activities) for each topic?  Let me know what you think.```
+```
+I moved this from the separate activities page, as some activities are with the topics, others are not.  Could we discuss the unit page structure/progression? Perhaps a different page (with activities) for each topic?  Let me know what you think.
+```
 
 ####Learning Activity 1.5
 - Read Getting the mix right again: An updated and theoretical rationale for interaction by Terry Anderson
