@@ -26,7 +26,7 @@ Categories for this post:
 
 #### Learning Activity 1.2: My Learning Experience `or another title`
 
-Before you dive into the content of this first unit in LDRS627, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of *what* you learned, but profound because of the fact that you still remember *that* you learned something and *how* you learned it. Pick one or two of those experiences and share them in a post on your blog before you move on to the next activity. '''I'd suggest we have them do this now, as the next activity mentions posts they will have read about this''' Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it? Take a few moments to read some of your colleagues' posts as well.
+Before you dive into the content of this first unit in LDRS627, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of *what* you learned, but profound because of the fact that you still remember *that* you learned something and *how* you learned it. Pick one or two of those experiences and share them in a post on your blog before you move on to the next activity. `I'd suggest we have them do this now, as the next activity mentions posts they will have read about this` Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it? Take a few moments to read some of your colleagues' posts as well.
 
 Remember to include the following categories for this post, as listed below.
 
