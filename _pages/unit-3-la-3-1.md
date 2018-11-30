@@ -10,7 +10,9 @@ published: true
 post_date: 2018-02-27 21:49:11
 ---
 ####Learning Activity 3.1: Challenge!
-```Where does this activity take place? What does it connect with?  Could I suggest we keep it with the topics and then separate them if it makes sense for the flow of the course?  As it is now, it's difficult to see the flow of the unit.  Also, perhaps we need an intro sentence to relate it to the topic.```
+```
+Where does this activity take place? What does it connect with?  Could I suggest we keep it with the topics and then separate them if it makes sense for the flow of the course?  As it is now, it's difficult to see the flow of the unit.  Also, perhaps we need an intro sentence to relate it to the topic.
+```
 
 Check out [this challenge](http://anth101.com/challenge3/) from the open online course *Anthropology 101: The Art of Being Human*
 
