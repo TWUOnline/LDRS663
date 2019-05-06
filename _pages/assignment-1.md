@@ -10,8 +10,6 @@ published: true
 post_date: 2018-02-27 21:49:11
 ---
 ### Blogging
-hey
-hi
 Throughout this course, you will be invited to write about what you are learning on your blog. You should consider your blog as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community.
 
 Unlike other assignments in this course, your blog will not always be written in a formal academic style, but you should (like always) give appropriate credit to other people who have informed or inspired your thoughts. This can be done with a simple mention and link as a way to say thank you, [like this](http://cogdogblog.com/2017/02/beautiful-benches-and-attribution/). Or, you could activate the 'Inline Footnotes' plugin on your blog and use footnotes to provide an attribution.
